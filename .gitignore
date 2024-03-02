@@ -13,3 +13,11 @@ venv/
 ENV/ 
 env.bak/ 
 venv.bak/ 
+
+*.pyc
+*~
+
+__pycache__
+db.sqlite3
+/static
+.DS_Store
